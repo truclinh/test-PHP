@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-	echo "Ngọc điên"
+	echo "Thái Trúc Linh"
 	?>
 </body>
 </html>
